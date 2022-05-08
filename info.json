@@ -2,6 +2,11 @@
     "available_space": true,
     "files": [
         {
+            "name": "♥ Rachmaninoff's 'Rhapsody on a Theme of Paganini'-4E7XHOotTX0.mp4",
+            "path": "music_x2/videos/♥ Rachmaninoff's 'Rhapsody on a Theme of Paganini'-4E7XHOotTX0.mp4",
+            "size": 12.978634752000001
+        },
+        {
             "name": "George Gershwin - Rhapsody in Blue-eFHdRkeEnpM.mp4",
             "path": "music_x2/videos/George Gershwin - Rhapsody in Blue-eFHdRkeEnpM.mp4",
             "size": 25.807832064000003
@@ -25,6 +30,11 @@
             "name": "João Gilberto - 19 - Saudade fez um Samba-w9iXi_dLXUU.mp4",
             "path": "music_x2/videos/João Gilberto - 19 - Saudade fez um Samba-w9iXi_dLXUU.mp4",
             "size": 2.7955527680000003
+        },
+        {
+            "name": "Louis Andriessen - Y Después (1983)-iloZdjxH4FU.mp4",
+            "path": "music_x2/videos/Louis Andriessen - Y Después (1983)-iloZdjxH4FU.mp4",
+            "size": 14.350145536000001
         },
         {
             "name": "Giorgio Moroder - The Duel-QcADCoV8Bt8.mp4",
@@ -57,5 +67,5 @@
             "size": 2.757009408
         }
     ],
-    "total_size": 175.44918528
+    "total_size": 202.77796556799998
 }
