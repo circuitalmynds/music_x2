@@ -2,6 +2,11 @@
     "available_space": true,
     "files": [
         {
+            "name": "George Gershwin - Rhapsody in Blue-eFHdRkeEnpM.mp4",
+            "path": "music_x2/videos/George Gershwin - Rhapsody in Blue-eFHdRkeEnpM.mp4",
+            "size": 25.807832064000003
+        },
+        {
             "name": "Duke ELLINGTON & His Orchestra ' Bundle Of Blues ' 1933 !!!-s_GTfl8Hhc8.mp4",
             "path": "music_x2/videos/Duke ELLINGTON & His Orchestra ' Bundle Of Blues ' 1933 !!!-s_GTfl8Hhc8.mp4",
             "size": 31.612931072000002
@@ -37,5 +42,5 @@
             "size": 2.757009408
         }
     ],
-    "total_size": 69.60142540800001
+    "total_size": 95.40925747200001
 }
