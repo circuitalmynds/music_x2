@@ -1,5 +1,11 @@
 {
     "available_space": true,
-    "files": [],
-    "total_size": 0.0
+    "files": [
+        {
+            "name": "Chemical Brothers-Galaxy Bounce (High Quality)-YhYljpL-lEc.mp4",
+            "path": "music_x2/videos/Chemical Brothers-Galaxy Bounce (High Quality)-YhYljpL-lEc.mp4",
+            "size": 8.391758848
+        }
+    ],
+    "total_size": 8.391758848
 }
