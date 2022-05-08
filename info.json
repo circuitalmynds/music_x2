@@ -2,10 +2,20 @@
     "available_space": true,
     "files": [
         {
+            "name": "I´ve Got You On My Mind-BvsfdKr3JyY.mp4",
+            "path": "music_x2/videos/I´ve Got You On My Mind-BvsfdKr3JyY.mp4",
+            "size": 3.8593638400000003
+        },
+        {
+            "name": "João Gilberto - 19 - Saudade fez um Samba-w9iXi_dLXUU.mp4",
+            "path": "music_x2/videos/João Gilberto - 19 - Saudade fez um Samba-w9iXi_dLXUU.mp4",
+            "size": 2.7955527680000003
+        },
+        {
             "name": "Chemical Brothers-Galaxy Bounce (High Quality)-YhYljpL-lEc.mp4",
             "path": "music_x2/videos/Chemical Brothers-Galaxy Bounce (High Quality)-YhYljpL-lEc.mp4",
             "size": 8.391758848
         }
     ],
-    "total_size": 8.391758848
+    "total_size": 15.046675456000001
 }
