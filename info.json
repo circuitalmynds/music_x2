@@ -1,76 +1,91 @@
 {
     "available_space": true,
-    "files": [
+    "content": [
         {
             "name": "Kraftwerk - Electric Café 1986-6U6mNAXtCOk.mp4",
-            "path": "music_x2/videos/Kraftwerk - Electric Café 1986-6U6mNAXtCOk.mp4",
-            "size": 39.588331520000004
+            "path": "x2/videos/Kraftwerk - Electric Café 1986-6U6mNAXtCOk.mp4",
+            "size": 39.588331520000004,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Kraftwerk - Electric Café 1986-6U6mNAXtCOk.mp4?raw=true"
         },
         {
             "name": "Johann Strauss I - Loreley-Rhein-Klänge - Walzer, Op. 154-e8XFqiJasmA.mp4",
-            "path": "music_x2/videos/Johann Strauss I - Loreley-Rhein-Klänge - Walzer, Op. 154-e8XFqiJasmA.mp4",
-            "size": 9.828687872000001
+            "path": "x2/videos/Johann Strauss I - Loreley-Rhein-Klänge - Walzer, Op. 154-e8XFqiJasmA.mp4",
+            "size": 9.828687872000001,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Johann Strauss I - Loreley-Rhein-Klänge - Walzer, Op. 154-e8XFqiJasmA.mp4?raw=true"
         },
         {
             "name": "Chemical Brothers-Galaxy Bounce (High Quality)-YhYljpL-lEc.mp4",
-            "path": "music_x2/videos/Chemical Brothers-Galaxy Bounce (High Quality)-YhYljpL-lEc.mp4",
-            "size": 8.391758848
+            "path": "x2/videos/Chemical Brothers-Galaxy Bounce (High Quality)-YhYljpL-lEc.mp4",
+            "size": 8.391758848,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Chemical Brothers-Galaxy Bounce (High Quality)-YhYljpL-lEc.mp4?raw=true"
         },
         {
             "name": "Giorgio Moroder - The Duel-QcADCoV8Bt8.mp4",
-            "path": "music_x2/videos/Giorgio Moroder - The Duel-QcADCoV8Bt8.mp4",
-            "size": 7.2822528
+            "path": "x2/videos/Giorgio Moroder - The Duel-QcADCoV8Bt8.mp4",
+            "size": 7.2822528,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Giorgio Moroder - The Duel-QcADCoV8Bt8.mp4?raw=true"
         },
         {
             "name": "Nina Hagen - Du hast den farbfilm Vergessen (Subtitulado)-EKe9ybFDQ1A.mp4",
-            "path": "music_x2/videos/Nina Hagen - Du hast den farbfilm Vergessen (Subtitulado)-EKe9ybFDQ1A.mp4",
-            "size": 8.038053888
+            "path": "x2/videos/Nina Hagen - Du hast den farbfilm Vergessen (Subtitulado)-EKe9ybFDQ1A.mp4",
+            "size": 8.038053888,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Nina Hagen - Du hast den farbfilm Vergessen (Subtitulado)-EKe9ybFDQ1A.mp4?raw=true"
         },
         {
             "name": "Duke ELLINGTON & His Orchestra ' Bundle Of Blues ' 1933 !!!-s_GTfl8Hhc8.mp4",
-            "path": "music_x2/videos/Duke ELLINGTON & His Orchestra ' Bundle Of Blues ' 1933 !!!-s_GTfl8Hhc8.mp4",
-            "size": 31.612931072000002
+            "path": "x2/videos/Duke ELLINGTON & His Orchestra ' Bundle Of Blues ' 1933 !!!-s_GTfl8Hhc8.mp4",
+            "size": 31.612931072000002,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Duke ELLINGTON & His Orchestra ' Bundle Of Blues ' 1933 !!!-s_GTfl8Hhc8.mp4?raw=true"
         },
         {
             "name": "João Gilberto - 08 - O Barquinho-XUmur-FJwpM.mp4",
-            "path": "music_x2/videos/João Gilberto - 08 - O Barquinho-XUmur-FJwpM.mp4",
-            "size": 2.757009408
+            "path": "x2/videos/João Gilberto - 08 - O Barquinho-XUmur-FJwpM.mp4",
+            "size": 2.757009408,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/João Gilberto - 08 - O Barquinho-XUmur-FJwpM.mp4?raw=true"
         },
         {
             "name": "♥ Rachmaninoff's 'Rhapsody on a Theme of Paganini'-4E7XHOotTX0.mp4",
-            "path": "music_x2/videos/♥ Rachmaninoff's 'Rhapsody on a Theme of Paganini'-4E7XHOotTX0.mp4",
-            "size": 12.978634752000001
+            "path": "x2/videos/♥ Rachmaninoff's 'Rhapsody on a Theme of Paganini'-4E7XHOotTX0.mp4",
+            "size": 12.978634752000001,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/♥ Rachmaninoff's 'Rhapsody on a Theme of Paganini'-4E7XHOotTX0.mp4?raw=true"
         },
         {
             "name": "João Gilberto - 19 - Saudade fez um Samba-w9iXi_dLXUU.mp4",
-            "path": "music_x2/videos/João Gilberto - 19 - Saudade fez um Samba-w9iXi_dLXUU.mp4",
-            "size": 2.7955527680000003
+            "path": "x2/videos/João Gilberto - 19 - Saudade fez um Samba-w9iXi_dLXUU.mp4",
+            "size": 2.7955527680000003,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/João Gilberto - 19 - Saudade fez um Samba-w9iXi_dLXUU.mp4?raw=true"
         },
         {
             "name": "I´ve Got You On My Mind-BvsfdKr3JyY.mp4",
-            "path": "music_x2/videos/I´ve Got You On My Mind-BvsfdKr3JyY.mp4",
-            "size": 3.8593638400000003
+            "path": "x2/videos/I´ve Got You On My Mind-BvsfdKr3JyY.mp4",
+            "size": 3.8593638400000003,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/I´ve Got You On My Mind-BvsfdKr3JyY.mp4?raw=true"
         },
         {
             "name": "George Gershwin - Rhapsody in Blue-eFHdRkeEnpM.mp4",
-            "path": "music_x2/videos/George Gershwin - Rhapsody in Blue-eFHdRkeEnpM.mp4",
-            "size": 25.807832064000003
+            "path": "x2/videos/George Gershwin - Rhapsody in Blue-eFHdRkeEnpM.mp4",
+            "size": 25.807832064000003,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/George Gershwin - Rhapsody in Blue-eFHdRkeEnpM.mp4?raw=true"
         },
         {
             "name": "Giorgio Moroder - Utopia-Ub1Q6ReS9qU.mp4",
-            "path": "music_x2/videos/Giorgio Moroder - Utopia-Ub1Q6ReS9qU.mp4",
-            "size": 10.3561216
+            "path": "x2/videos/Giorgio Moroder - Utopia-Ub1Q6ReS9qU.mp4",
+            "size": 10.3561216,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Giorgio Moroder - Utopia-Ub1Q6ReS9qU.mp4?raw=true"
         },
         {
             "name": "Louis Andriessen - Y Después (1983)-iloZdjxH4FU.mp4",
-            "path": "music_x2/videos/Louis Andriessen - Y Después (1983)-iloZdjxH4FU.mp4",
-            "size": 14.350145536000001
+            "path": "x2/videos/Louis Andriessen - Y Después (1983)-iloZdjxH4FU.mp4",
+            "size": 14.350145536000001,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Louis Andriessen - Y Después (1983)-iloZdjxH4FU.mp4?raw=true"
         },
         {
             "name": "Eiti Leda - Serú Girán (Charly García, 1978) - Museo del cine-QdN5TIQfOEA.mp4",
-            "path": "music_x2/videos/Eiti Leda - Serú Girán (Charly García, 1978) - Museo del cine-QdN5TIQfOEA.mp4",
-            "size": 33.169343488
+            "path": "x2/videos/Eiti Leda - Serú Girán (Charly García, 1978) - Museo del cine-QdN5TIQfOEA.mp4",
+            "size": 33.169343488,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Eiti Leda - Serú Girán (Charly García, 1978) - Museo del cine-QdN5TIQfOEA.mp4?raw=true"
         }
     ],
+    "ready_to_push": true,
     "total_size": 210.81601945600005
 }
