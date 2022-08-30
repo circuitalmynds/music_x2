@@ -1,91 +1,308 @@
 {
-    "available_space": true,
+    "available_space": false,
     "content": [
         {
+            "id": "6U6mNAXtCOk",
             "name": "Kraftwerk - Electric Café 1986-6U6mNAXtCOk.mp4",
             "path": "x2/videos/Kraftwerk - Electric Café 1986-6U6mNAXtCOk.mp4",
-            "size": 39.588331520000004,
+            "size": 38.66048,
             "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Kraftwerk - Electric Café 1986-6U6mNAXtCOk.mp4?raw=true"
         },
         {
+            "id": "e8XFqiJasmA",
             "name": "Johann Strauss I - Loreley-Rhein-Klänge - Walzer, Op. 154-e8XFqiJasmA.mp4",
             "path": "x2/videos/Johann Strauss I - Loreley-Rhein-Klänge - Walzer, Op. 154-e8XFqiJasmA.mp4",
-            "size": 9.828687872000001,
+            "size": 9.598328,
             "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Johann Strauss I - Loreley-Rhein-Klänge - Walzer, Op. 154-e8XFqiJasmA.mp4?raw=true"
         },
         {
+            "id": "YhYljpL-lEc",
             "name": "Chemical Brothers-Galaxy Bounce (High Quality)-YhYljpL-lEc.mp4",
             "path": "x2/videos/Chemical Brothers-Galaxy Bounce (High Quality)-YhYljpL-lEc.mp4",
-            "size": 8.391758848,
+            "size": 8.195077,
             "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Chemical Brothers-Galaxy Bounce (High Quality)-YhYljpL-lEc.mp4?raw=true"
         },
         {
+            "id": "QcADCoV8Bt8",
             "name": "Giorgio Moroder - The Duel-QcADCoV8Bt8.mp4",
             "path": "x2/videos/Giorgio Moroder - The Duel-QcADCoV8Bt8.mp4",
-            "size": 7.2822528,
+            "size": 7.111574999999999,
             "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Giorgio Moroder - The Duel-QcADCoV8Bt8.mp4?raw=true"
         },
         {
+            "id": "EKe9ybFDQ1A",
             "name": "Nina Hagen - Du hast den farbfilm Vergessen (Subtitulado)-EKe9ybFDQ1A.mp4",
             "path": "x2/videos/Nina Hagen - Du hast den farbfilm Vergessen (Subtitulado)-EKe9ybFDQ1A.mp4",
-            "size": 8.038053888,
+            "size": 7.8496619999999995,
             "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Nina Hagen - Du hast den farbfilm Vergessen (Subtitulado)-EKe9ybFDQ1A.mp4?raw=true"
         },
         {
+            "id": "s_GTfl8Hhc8",
             "name": "Duke ELLINGTON & His Orchestra ' Bundle Of Blues ' 1933 !!!-s_GTfl8Hhc8.mp4",
             "path": "x2/videos/Duke ELLINGTON & His Orchestra ' Bundle Of Blues ' 1933 !!!-s_GTfl8Hhc8.mp4",
-            "size": 31.612931072000002,
+            "size": 30.872003,
             "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Duke ELLINGTON & His Orchestra ' Bundle Of Blues ' 1933 !!!-s_GTfl8Hhc8.mp4?raw=true"
         },
         {
+            "id": "XUmur-FJwpM",
             "name": "João Gilberto - 08 - O Barquinho-XUmur-FJwpM.mp4",
             "path": "x2/videos/João Gilberto - 08 - O Barquinho-XUmur-FJwpM.mp4",
-            "size": 2.757009408,
+            "size": 2.692392,
             "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/João Gilberto - 08 - O Barquinho-XUmur-FJwpM.mp4?raw=true"
         },
         {
+            "id": "4E7XHOotTX0",
             "name": "♥ Rachmaninoff's 'Rhapsody on a Theme of Paganini'-4E7XHOotTX0.mp4",
             "path": "x2/videos/♥ Rachmaninoff's 'Rhapsody on a Theme of Paganini'-4E7XHOotTX0.mp4",
-            "size": 12.978634752000001,
+            "size": 12.674448,
             "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/♥ Rachmaninoff's 'Rhapsody on a Theme of Paganini'-4E7XHOotTX0.mp4?raw=true"
         },
         {
+            "id": "w9iXi_dLXUU",
             "name": "João Gilberto - 19 - Saudade fez um Samba-w9iXi_dLXUU.mp4",
             "path": "x2/videos/João Gilberto - 19 - Saudade fez um Samba-w9iXi_dLXUU.mp4",
-            "size": 2.7955527680000003,
+            "size": 2.730032,
             "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/João Gilberto - 19 - Saudade fez um Samba-w9iXi_dLXUU.mp4?raw=true"
         },
         {
+            "id": "BvsfdKr3JyY",
             "name": "I´ve Got You On My Mind-BvsfdKr3JyY.mp4",
             "path": "x2/videos/I´ve Got You On My Mind-BvsfdKr3JyY.mp4",
-            "size": 3.8593638400000003,
+            "size": 3.76891,
             "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/I´ve Got You On My Mind-BvsfdKr3JyY.mp4?raw=true"
         },
         {
+            "id": "eFHdRkeEnpM",
             "name": "George Gershwin - Rhapsody in Blue-eFHdRkeEnpM.mp4",
             "path": "x2/videos/George Gershwin - Rhapsody in Blue-eFHdRkeEnpM.mp4",
-            "size": 25.807832064000003,
+            "size": 25.202961,
             "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/George Gershwin - Rhapsody in Blue-eFHdRkeEnpM.mp4?raw=true"
         },
         {
+            "id": "Ub1Q6ReS9qU",
             "name": "Giorgio Moroder - Utopia-Ub1Q6ReS9qU.mp4",
             "path": "x2/videos/Giorgio Moroder - Utopia-Ub1Q6ReS9qU.mp4",
-            "size": 10.3561216,
+            "size": 10.1134,
             "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Giorgio Moroder - Utopia-Ub1Q6ReS9qU.mp4?raw=true"
         },
         {
+            "id": "3DUh-hfR6po",
+            "name": "The Words and Music of Irving Berlin - From the #1930s & 40s (Past Perfect) #composer #vintagemusic-3DUh-hfR6po.mp4",
+            "path": "x2/videos/The Words and Music of Irving Berlin - From the #1930s & 40s (Past Perfect) #composer #vintagemusic-3DUh-hfR6po.mp4",
+            "size": 94.747385,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/The Words and Music of Irving Berlin - From the #1930s & 40s (Past Perfect) #composer #vintagemusic-3DUh-hfR6po.mp4?raw=true"
+        },
+        {
+            "id": "Vg1jyL3cr60",
+            "name": "Portishead - Roads-Vg1jyL3cr60.mp4",
+            "path": "x2/videos/Portishead - Roads-Vg1jyL3cr60.mp4",
+            "size": 15.372881999999999,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Portishead - Roads-Vg1jyL3cr60.mp4?raw=true"
+        },
+        {
+            "id": "rkXQXAvMICs",
+            "name": "Shostakovich Jazz Suite No.2-rkXQXAvMICs.mp4",
+            "path": "x2/videos/Shostakovich Jazz Suite No.2-rkXQXAvMICs.mp4",
+            "size": 74.615738,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Shostakovich Jazz Suite No.2-rkXQXAvMICs.mp4?raw=true"
+        },
+        {
+            "id": "NAI9Uc-n8fA",
+            "name": "Playas Negras - Los Cadetes De Linares-NAI9Uc-n8fA.mp4",
+            "path": "x2/videos/Playas Negras - Los Cadetes De Linares-NAI9Uc-n8fA.mp4",
+            "size": 3.344054,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Playas Negras - Los Cadetes De Linares-NAI9Uc-n8fA.mp4?raw=true"
+        },
+        {
+            "id": "EwUiqHDpUks",
+            "name": "The Man Who Never Lied-EwUiqHDpUks.mp4",
+            "path": "x2/videos/The Man Who Never Lied-EwUiqHDpUks.mp4",
+            "size": 9.066627,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/The Man Who Never Lied-EwUiqHDpUks.mp4?raw=true"
+        },
+        {
+            "id": "rIrllwX4kw4",
+            "name": "Los Cadetes de Linares - Es Inutil-rIrllwX4kw4.mp4",
+            "path": "x2/videos/Los Cadetes de Linares - Es Inutil-rIrllwX4kw4.mp4",
+            "size": 3.2638399999999996,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Los Cadetes de Linares - Es Inutil-rIrllwX4kw4.mp4?raw=true"
+        },
+        {
+            "id": "K-SyOpr4WUY",
+            "name": "Jongyun Kim, piano - Stravinsky - Firebird Suite-K-SyOpr4WUY.mp4",
+            "path": "x2/videos/Jongyun Kim, piano - Stravinsky - Firebird Suite-K-SyOpr4WUY.mp4",
+            "size": 37.615333,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Jongyun Kim, piano - Stravinsky - Firebird Suite-K-SyOpr4WUY.mp4?raw=true"
+        },
+        {
+            "id": "C0nzGkLNKK8",
+            "name": "Los Pericos - Rab a dab Stail (full album)-C0nzGkLNKK8.mp4",
+            "path": "x2/videos/Los Pericos - Rab a dab Stail (full album)-C0nzGkLNKK8.mp4",
+            "size": 58.916692,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Los Pericos - Rab a dab Stail (full album)-C0nzGkLNKK8.mp4?raw=true"
+        },
+        {
+            "id": "jqNxc4yGVlY",
+            "name": "Al Bowlly - Butterflies In The Rain 1933 Ray Noble-jqNxc4yGVlY.mp4",
+            "path": "x2/videos/Al Bowlly - Butterflies In The Rain 1933 Ray Noble-jqNxc4yGVlY.mp4",
+            "size": 3.826218,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Al Bowlly - Butterflies In The Rain 1933 Ray Noble-jqNxc4yGVlY.mp4?raw=true"
+        },
+        {
+            "id": "J_kiMeYKJbY",
+            "name": "Debussy - Petite Suite ∙ hr-Sinfonieorchester ∙ François Leleux-J_kiMeYKJbY.mp4",
+            "path": "x2/videos/Debussy - Petite Suite ∙ hr-Sinfonieorchester ∙ François Leleux-J_kiMeYKJbY.mp4",
+            "size": 69.720863,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Debussy - Petite Suite ∙ hr-Sinfonieorchester ∙ François Leleux-J_kiMeYKJbY.mp4?raw=true"
+        },
+        {
+            "id": "qq0RoysOz2U",
+            "name": "Al Bowlly - There's something in the air-qq0RoysOz2U.mp4",
+            "path": "x2/videos/Al Bowlly - There's something in the air-qq0RoysOz2U.mp4",
+            "size": 3.008593,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Al Bowlly - There's something in the air-qq0RoysOz2U.mp4?raw=true"
+        },
+        {
+            "id": "Lp-ivD3pGJE",
+            "name": "Carl Michael Ziehrer - Ohne Tanz kein Leben! (Walzer, Op. 391)-Lp-ivD3pGJE.mp4",
+            "path": "x2/videos/Carl Michael Ziehrer - Ohne Tanz kein Leben! (Walzer, Op. 391)-Lp-ivD3pGJE.mp4",
+            "size": 6.66344,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Carl Michael Ziehrer - Ohne Tanz kein Leben! (Walzer, Op. 391)-Lp-ivD3pGJE.mp4?raw=true"
+        },
+        {
+            "id": "1nfnkx6FYJ8",
+            "name": "All Night Thing-1nfnkx6FYJ8.mp4",
+            "path": "x2/videos/All Night Thing-1nfnkx6FYJ8.mp4",
+            "size": 13.684593999999999,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/All Night Thing-1nfnkx6FYJ8.mp4?raw=true"
+        },
+        {
+            "id": "Q7-kk-4rwrw",
+            "name": "Rhythm Is Our Business-Q7-kk-4rwrw.mp4",
+            "path": "x2/videos/Rhythm Is Our Business-Q7-kk-4rwrw.mp4",
+            "size": 6.388431,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Rhythm Is Our Business-Q7-kk-4rwrw.mp4?raw=true"
+        },
+        {
+            "id": "A4r1wTISUAQ",
+            "name": "Carl Michael Ziehrer - Leben heißt genießen!,polka schnell, Op.325-A4r1wTISUAQ.mp4",
+            "path": "x2/videos/Carl Michael Ziehrer - Leben heißt genießen!,polka schnell, Op.325-A4r1wTISUAQ.mp4",
+            "size": 8.79007,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Carl Michael Ziehrer - Leben heißt genießen!,polka schnell, Op.325-A4r1wTISUAQ.mp4?raw=true"
+        },
+        {
+            "id": "M4ZoCHID9GI",
+            "name": "The Weeknd - Call Out My Name (Official Video)-M4ZoCHID9GI.mp4",
+            "path": "x2/videos/The Weeknd - Call Out My Name (Official Video)-M4ZoCHID9GI.mp4",
+            "size": 12.692575999999999,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/The Weeknd - Call Out My Name (Official Video)-M4ZoCHID9GI.mp4?raw=true"
+        },
+        {
+            "id": "X2V6TD8R_zQ",
+            "name": "Conflict - From Protest To Resistance (1984)-X2V6TD8R_zQ.mp4",
+            "path": "x2/videos/Conflict - From Protest To Resistance (1984)-X2V6TD8R_zQ.mp4",
+            "size": 4.938168,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Conflict - From Protest To Resistance (1984)-X2V6TD8R_zQ.mp4?raw=true"
+        },
+        {
+            "id": "7sOVqvmyhwU",
+            "name": "@PATIA NO - El ruido de antes contra los opresores de siempre-7sOVqvmyhwU.mp4",
+            "path": "x2/videos/@PATIA NO - El ruido de antes contra los opresores de siempre-7sOVqvmyhwU.mp4",
+            "size": 70.297027,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/@PATIA NO - El ruido de antes contra los opresores de siempre-7sOVqvmyhwU.mp4?raw=true"
+        },
+        {
+            "id": "GW9dKV2kGPM",
+            "name": "Kreisler - 16 Less Heard Pieces-GW9dKV2kGPM.mp4",
+            "path": "x2/videos/Kreisler - 16 Less Heard Pieces-GW9dKV2kGPM.mp4",
+            "size": 54.657683,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Kreisler - 16 Less Heard Pieces-GW9dKV2kGPM.mp4?raw=true"
+        },
+        {
+            "id": "kIwkB8x8Wlg",
+            "name": "Brigada Criminal - Brigada Criminal [Diska Osoa]-kIwkB8x8Wlg.mp4",
+            "path": "x2/videos/Brigada Criminal - Brigada Criminal [Diska Osoa]-kIwkB8x8Wlg.mp4",
+            "size": 55.23836,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Brigada Criminal - Brigada Criminal [Diska Osoa]-kIwkB8x8Wlg.mp4?raw=true"
+        },
+        {
+            "id": "5SbpKO3jbJg",
+            "name": "Lil Tjay - Top of My Game (Official Audio)-5SbpKO3jbJg.mp4",
+            "path": "x2/videos/Lil Tjay - Top of My Game (Official Audio)-5SbpKO3jbJg.mp4",
+            "size": 3.6457319999999998,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Lil Tjay - Top of My Game (Official Audio)-5SbpKO3jbJg.mp4?raw=true"
+        },
+        {
+            "id": "GFHs3Wzd19U",
+            "name": "The Residents - Amber-GFHs3Wzd19U.mp4",
+            "path": "x2/videos/The Residents - Amber-GFHs3Wzd19U.mp4",
+            "size": 2.969654,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/The Residents - Amber-GFHs3Wzd19U.mp4?raw=true"
+        },
+        {
+            "id": "UwfE03dfco0",
+            "name": "The Residents - Love Is...-UwfE03dfco0.mp4",
+            "path": "x2/videos/The Residents - Love Is...-UwfE03dfco0.mp4",
+            "size": 4.692282,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/The Residents - Love Is...-UwfE03dfco0.mp4?raw=true"
+        },
+        {
+            "id": "Y2kqjAMkKBk",
+            "name": "LA MAS HERMOSA MUSICA CON ARPA Y SALTERIO PURA MUSICA INSTRUMENTAL DE MEXICO-Y2kqjAMkKBk.mp4",
+            "path": "x2/videos/LA MAS HERMOSA MUSICA CON ARPA Y SALTERIO PURA MUSICA INSTRUMENTAL DE MEXICO-Y2kqjAMkKBk.mp4",
+            "size": 92.358296,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/LA MAS HERMOSA MUSICA CON ARPA Y SALTERIO PURA MUSICA INSTRUMENTAL DE MEXICO-Y2kqjAMkKBk.mp4?raw=true"
+        },
+        {
+            "id": "zIJcWLrjP1A",
+            "name": "El Relicario-zIJcWLrjP1A.mp4",
+            "path": "x2/videos/El Relicario-zIJcWLrjP1A.mp4",
+            "size": 6.2757,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/El Relicario-zIJcWLrjP1A.mp4?raw=true"
+        },
+        {
+            "id": "Wtij9_fLhKA",
+            "name": "Stevie Ray Vaughan - Testify (from Live at the El Mocambo)-Wtij9_fLhKA.mp4",
+            "path": "x2/videos/Stevie Ray Vaughan - Testify (from Live at the El Mocambo)-Wtij9_fLhKA.mp4",
+            "size": 14.090904,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Stevie Ray Vaughan - Testify (from Live at the El Mocambo)-Wtij9_fLhKA.mp4?raw=true"
+        },
+        {
+            "id": "iloZdjxH4FU",
             "name": "Louis Andriessen - Y Después (1983)-iloZdjxH4FU.mp4",
             "path": "x2/videos/Louis Andriessen - Y Después (1983)-iloZdjxH4FU.mp4",
-            "size": 14.350145536000001,
+            "size": 14.013814,
             "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Louis Andriessen - Y Después (1983)-iloZdjxH4FU.mp4?raw=true"
         },
         {
+            "id": "FwImKYGCSxI",
+            "name": "Daddy Long Legs (1955) - Sluefoot - Leslie Caron & Fred Astaire-FwImKYGCSxI.mp4",
+            "path": "x2/videos/Daddy Long Legs (1955) - Sluefoot - Leslie Caron & Fred Astaire-FwImKYGCSxI.mp4",
+            "size": 26.165159,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Daddy Long Legs (1955) - Sluefoot - Leslie Caron & Fred Astaire-FwImKYGCSxI.mp4?raw=true"
+        },
+        {
+            "id": "6g-qZIktAtc",
+            "name": "Los Amigos Invisibles - Mentiras (Video Oficial)-6g-qZIktAtc.mp4",
+            "path": "x2/videos/Los Amigos Invisibles - Mentiras (Video Oficial)-6g-qZIktAtc.mp4",
+            "size": 15.244494,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Los Amigos Invisibles - Mentiras (Video Oficial)-6g-qZIktAtc.mp4?raw=true"
+        },
+        {
+            "id": "r_xbjcRG4Rw",
+            "name": "Ray Noble - By the Fireside-r_xbjcRG4Rw.mp4",
+            "path": "x2/videos/Ray Noble - By the Fireside-r_xbjcRG4Rw.mp4",
+            "size": 4.1591949999999995,
+            "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Ray Noble - By the Fireside-r_xbjcRG4Rw.mp4?raw=true"
+        },
+        {
+            "id": "QdN5TIQfOEA",
             "name": "Eiti Leda - Serú Girán (Charly García, 1978) - Museo del cine-QdN5TIQfOEA.mp4",
             "path": "x2/videos/Eiti Leda - Serú Girán (Charly García, 1978) - Museo del cine-QdN5TIQfOEA.mp4",
-            "size": 33.169343488,
+            "size": 32.391937,
             "url": "https://github.com/circuitalmynds/music_x2/blob/main/videos/Eiti Leda - Serú Girán (Charly García, 1978) - Museo del cine-QdN5TIQfOEA.mp4?raw=true"
         }
     ],
     "ready_to_push": true,
-    "total_size": 210.81601945600005
+    "total_size": 982.3250090000001
 }
